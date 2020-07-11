@@ -3,14 +3,18 @@
 <!--
 **KKAMLESH286/KKAMLESH286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working from home as a team leader in BPO  industry.
+- 🌱 I’m currently learning coding and want to switch my career
+- 👯 I’m looking to collaborate on web development based projects.
+- 🤔 I’m looking for help with javascript.
+- 💬 Ask me about Web scrapping and automation using python.
+- 📫 How to reach me: 
+on twitter: https://twitter.com/Kamlesh94962758
+on instagram: https://www.instagram.com/kkamlesh286/
+on Facebook: https://www.facebook.com/kkamlesh89
+on Linkedin: https://www.linkedin.com/in/kamlesh-panwar-70891416b/
+- 😄 Pronouns: Kamles.. 
+- ⚡ Fun fact: Started coding journey before getting my own laptop.
 -->
