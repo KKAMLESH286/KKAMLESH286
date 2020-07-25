@@ -12,7 +12,7 @@ on instagram: https://www.instagram.com/kkamlesh286/
 on Facebook: https://www.facebook.com/kkamlesh89
 on Linkedin: https://www.linkedin.com/in/kamlesh-panwar-70891416b/
 
-- 😄 Pronouns: Kamles.. 
+- 😄 Pronouns: He/him.. 
 
 
 - ⚡ Fun fact: Started coding journey before getting my own laptop.
