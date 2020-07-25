@@ -9,8 +9,8 @@
 - 📫 How to reach me: 
 on twitter: https://twitter.com/Kamlesh94962758
 on instagram: https://www.instagram.com/kkamlesh286/
-on Facebook: https://www.facebook.com/kkamlesh89
-on Linkedin: https://www.linkedin.com/in/kamlesh-panwar-70891416b/
+on Facebook: https://www.facebook.com/kkamlesh286
+on Linkedin: https://www.linkedin.com/in/kkamlesh286
 
 - 😄 Pronouns: He/him.. 
 
