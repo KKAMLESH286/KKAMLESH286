@@ -7,7 +7,7 @@
 - 💬 Ask me about Web scrapping and automation using python.
 
 - 📫 How to reach me: 
-on twitter: https://twitter.com/Kamlesh94962758
+on twitter: https://twitter.com/kkamlesh286
 on instagram: https://www.instagram.com/kkamlesh286/
 on Facebook: https://www.facebook.com/kkamlesh286
 on Linkedin: https://www.linkedin.com/in/kkamlesh286
