@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a flutter developer at Dozzbee Technologies Private Limited.
-- 🌱 I’m currently learning .NET core as back end development framework
-- 👯 I’m looking to collaborate on web development based projects.
-- 🤔 I’m looking for help with .NET Core and Flutter.
-- 💬 Ask me about Flutter,  Web scrapping and automation using python.
+- 🔭 I’m currently working as a flutter developer at Nextpage IT solutions.
+- 🌱 I’m currently learning advance dart programming.
+- 👯 I’m looking to collaborate on Flutter development based projects.
+- 🤔 I’m looking for help with advance dart programming in Flutter.
+- 💬 Ask me about Flutter development.
 
 - 📫 How to reach me: 
 on twitter: https://twitter.com/kkamlesh286
