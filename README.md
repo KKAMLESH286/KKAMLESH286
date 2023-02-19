@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a flutter developer at Nextpage IT solutions.
+- 🔭 I’m currently working as a Flutter developer and instructor at [HeyFlutter.com](https://heyflutter.com/).
 - 🌱 I’m currently learning advance dart programming.
 - 👯 I’m looking to collaborate on Flutter development based projects.
 - 🤔 I’m looking for help with advance dart programming in Flutter.
