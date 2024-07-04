@@ -13,7 +13,6 @@ on Facebook: https://www.facebook.com/kkamlesh286
 on Linkedin: https://www.linkedin.com/in/kkamlesh286
 
 - 😄 Pronouns: He/him.. 
-
-
-- ⚡ Fun fact: Started coding journey before getting my own laptop.
 -->
+
+  [![Contact me on Codementor](https://www.codementor.io/m-badges/kkamlesh286/get-help.svg)](https://www.codementor.io/@kkamlesh286?refer=badge)
